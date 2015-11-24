@@ -1,4 +1,4 @@
-# 2015-12-11-dnadigest
+# DNAdigest and ContentMine Hackday
 
 From the volunteers and organisers of ContentMine and DNAdigest  comes a new hackday!
 
