@@ -5,11 +5,9 @@ Event Details
 * End: 11 December 2015 4:30 pm
 * Venue: Wellcome Genome Campus , Cambridge
 * Event-Type: Hackday
+* Tickets available [here](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913).
 
-
-Tickets available [here](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913).
-
-From the volunteers and organisers of ContentMine and DNAdigest  comes a new hackday!
+**From the volunteers and organisers of ContentMine and DNAdigest comes a new hackday!**
 
 We will use the tools of ContentMine to automatically extract references to genomic datasets from new journal publications.  Then we can put them into a big machine-readable database that can be searched by interested humans and machines alike.  We would love to have your expertise and help with this experiment!
 
