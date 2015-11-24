@@ -37,7 +37,7 @@ Please take 3 minutes and fill out our [evaluation form](https://docs.google.com
 - [@contentmine](http://twitter.com/thecontentmine)
 - office@contentmine.org
 
-![ContentMine Logo](code/CM_logo.png)
+![ContentMine Logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
 
 **Copyright**
 
