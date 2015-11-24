@@ -20,7 +20,7 @@ If you are interested in machine-mining journals, whether that is for genomic da
 ## Event Details
 
 - **Start:** 11 December 2015 9:30 am
-- **End:** 11 December 2015 4:30 pm [add to calendar](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#add-to-calendar-modal)
+- **End:** 11 December 2015 4:30 pm - [add to calendar](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#add-to-calendar-modal)
 - **Venue:** Garden Room - European Bioinformatics Institute (EMBL-EBI). Wellcome Genome Campus, Hinxton. Cambridge CB10 1SD GB - [view on map](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#map-target)
 - **Tickets** available [here](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913).
 - **Host:** [DNAdigest](http://dnadigest.org/)
