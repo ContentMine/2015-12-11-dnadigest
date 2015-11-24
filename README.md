@@ -1,5 +1,4 @@
 # 2015-12-11-dnadigest
-Information for participants of the DNAdigest workshop.
 
 From the volunteers and organisers of ContentMine and DNAdigest  comes a new hackday!
 
