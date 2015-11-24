@@ -1,10 +1,9 @@
 # DNAdigest and ContentMine Hackday
 
-Event Details
-* Start: 11 December 2015 9:30 am
-* End: 11 December 2015 4:30 pm
-* Venue: Wellcome Genome Campus , Cambridge
-* Event-Type: Hackday
+[Event Details](#event-details)
+
+[Schedule](#schedule)
+
 * Tickets available [here](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913).
 
 **From the volunteers and organisers of ContentMine and DNAdigest comes a new hackday!**
@@ -17,9 +16,12 @@ Perhaps you work in a field where you have to manually transcribe data from grap
 
 If you are interested in machine-mining journals, whether that is for genomic dataset DOIs, your own research or just out of general interest, please come along and join us!  In-depth programming knowledge is not essential - ContentMine is designed to make mining easy and we will have ContentMine mentors there on the day to help you get familiar with the system.
 
+## Event Details
 
-- **Date:** 11. December 2015 - [add to calendar](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#add-to-calendar-modal)
+- Start: 11 December 2015 9:30 am
+- End: 11 December 2015 4:30 pm [add to calendar](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#add-to-calendar-modal)
 - **Location:** Garden Room - European Bioinformatics Institute (EMBL-EBI). Wellcome Genome Campus, Hinxton. Cambridge CB10 1SD GB - [view on map](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#map-target)
+- Tickets available [here](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913).
 - **Host:** [DNAdigest](http://dnadigest.org/)
 - **Facilitators:**
 	- N.N ([@](https://twitter.com/))
